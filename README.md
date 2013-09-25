@@ -12,5 +12,7 @@ Anyone wishing to found a nonprofit should feel free to fork this repository and
 for nonprofit operations.  Especially science-oriented nonprofits may find our documents useful.
 
 <3 Copyheart 2013 indysci dot org
+
 for more information on copyheart, visit:
+
 http://copyheart.org
